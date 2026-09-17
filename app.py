@@ -1,4 +1,4 @@
-import turtle
+""" import turtle
 from turtle import *
 t = Turtle()
 
@@ -39,4 +39,4 @@ def right():
 
 
 
-turtle.done()
+turtle.done() """
