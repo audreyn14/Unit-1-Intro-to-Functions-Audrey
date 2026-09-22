@@ -2,17 +2,15 @@ import turtle
 from turtle import *
 t = Turtle()
 
-for i in range(4):
-    print(i)
+def square(x,y):
+    for i in range(4):
+        t.forward(100)
+        t.left(90)
 
-for i in range(4):
-    t.forward(100)
-    t.right(90)
 
-for i in range(3):
-    t.forward(100)
-    t.right(95)
+""" for i in range(60):
+    for j in range(4):
+        t.forward(100)
+        t.right(90)
+    t.right(5) """
 
-for i in range(2):
-    t.forward(100)
-    t.right(100)
