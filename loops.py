@@ -4,14 +4,12 @@ t = Turtle()
 t.speed(0)
 
 
-
                 
 """ for i in range(60):
     for j in range(4):
         t.forward(100)
         t.right(90)
     t.right(5) """
-
 
 
 
@@ -31,7 +29,7 @@ addSquares(60) """
 
 
 
-def star(length, angle):
+""" def star(length, angle):
     for i in range(5):
         for j in range(5):
             t.forward(length)
@@ -45,4 +43,4 @@ def starspiral(iRange):
         length += 5
 starspiral(60)
 
-turtle.done()
+turtle.done() """
