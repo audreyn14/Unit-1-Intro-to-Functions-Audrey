@@ -34,7 +34,7 @@ def right():
     t.left(90)
     t.forward(90)
     t.left(135)
-    t.forward(90)
+    t.forward"""  """(90)
 
 
 
